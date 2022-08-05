@@ -6,13 +6,19 @@ ul {margin-left:auto; display:flex; list-style-type:none; gap:16px; }
 
 .header, .footer, .first-container {background-color:#1F2937; color: #F9FAF8 }
 
+.first-container {display:flex; justify-content: center; align-items:center; gap:20px; padding:40px;}
+
+.sub-first-container {display:flex; flex-direction:column; flex-grow:0; margin:1em}
+
 #h1 {font-size: 24px; color: #F9FAF8}
+
+text {margin-top:30px; margin-bottom:30px;}
 
 ul, .babytext{font-size:18px; color: #E5E7EB;}
 
-h1 {font-size:48px; color: #F9FAF8; font-weight:bolder;}
+.getter {font-size:48px; color: #F9FAF8; font-weight:bolder;}
 
-.button {background-color: #3882f6; border:none; border-radius: 10%; padding:0.5em}
+.button {background-color: #3882f6; border:none; border-radius: 10%; padding:0.5em; max-width:75px}
 
 .second-title {font-size: 36px; font-weight:bold; color:#1F2937}
 
