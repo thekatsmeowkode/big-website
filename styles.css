@@ -1,10 +1,14 @@
 body {display:flex; flex-direction:column; flex:1;}
 
+.header {display:flex; justify-content: space-between; padding: 16px; wrap:nowrap; flex-shrink:0; align-items:center;}
+
+ul {margin-left:auto; display:flex; list-style-type:none; gap:16px; }
+
 .header, .footer, .first-container {background-color:#1F2937; color: #F9FAF8 }
 
 #h1 {font-size: 24px; color: #F9FAF8}
 
-ul, .babytext{font:18px; color: #E5E7EB;}
+ul, .babytext{font-size:18px; color: #E5E7EB;}
 
 h1 {font-size:48px; color: #F9FAF8; font-weight:bolder;}
 
