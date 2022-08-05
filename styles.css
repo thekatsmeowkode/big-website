@@ -1,0 +1,19 @@
+body {display:flex; flex-direction:column; flex:1;}
+
+.header, .footer, .first-container {background-color:#1F2937; color: #F9FAF8 }
+
+#h1 {font-size: 24px; color: #F9FAF8}
+
+ul, .babytext{font:18px; color: #E5E7EB;}
+
+h1 {font-size:48px; color: #F9FAF8; font-weight:bolder;}
+
+.button {background-color: #3882f6; border:none; border-radius: 10%; padding:0.5em}
+
+.second-title {font-size: 36px; font-weight:bold; color:#1F2937}
+
+.third-container {background-color:lightgray; }
+
+.quote {font-size: 36px; font-style:italic; color:#1F2937}
+
+.bluebox {background-color:#3882f6}
