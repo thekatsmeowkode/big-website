@@ -8,11 +8,11 @@ ul {margin-left:auto; display:flex; list-style-type:none; gap:16px; }
 
 .first-container {display:flex; justify-content: center; align-items:center; gap:20px; padding:40px;}
 
-.sub-first-container {display:flex; flex-direction:column; flex-grow:0; margin:1em}
+.sub-first-container {display:flex; flex-direction:column; flex-grow:0; margin:1e}
 
 #h1 {font-size: 24px; color: #F9FAF8}
 
-text {margin-top:30px; margin-bottom:30px;}
+text {margin-top:10px; margin-bottom:10px;}
 
 ul, .babytext{font-size:18px; color: #E5E7EB;}
 
@@ -38,4 +38,15 @@ ul, .babytext{font-size:18px; color: #E5E7EB;}
 
 .author {margin-left:auto;}
 
-.blue-box {display:flex; justify-content: center; }
+.fourth-container {display:flex; justify-content: center; align-items: center; padding: 80px;}
+
+.blue-box {display:flex; justify-content: center; background-color: #3882f6; padding:20px; align-items:center;}
+
+.blurb {color:white; margin:25px; font-size: 35px;}
+
+.blurb-button {display:inline; border: 2px solid white;
+    background-color: transparent;
+    font-family: inherit;
+    padding: 5px;
+color: white;
+}
