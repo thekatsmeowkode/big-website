@@ -18,7 +18,7 @@ ul, .babytext{font-size:18px; color: #E5E7EB;}
 
 .getter {font-size:48px; color: #F9FAF8; font-weight:bolder;}
 
-.big-second-container {text-align:center; padding:100px 30px; }
+.big-second-container {text-align:center; padding:70px 30px; }
 
 .second-container {display:flex; justify-content: center; gap:52px;} 
 
@@ -49,4 +49,8 @@ ul, .babytext{font-size:18px; color: #E5E7EB;}
     font-family: inherit;
     padding: 5px;
 color: white;
+border-radius: 10px;
+margin: auto 10px;
 }
+
+.footer {padding:25px; display:flex; justify-content: center; align-items: center;}
